@@ -21,7 +21,7 @@ A Data Science project focused on exploring product sales, cleaning the dataset,
 
 ## Visualizations
 ### Correlation Heatmap
-<img width="634" height="554" alt="image" src="https://github.com/user-attachments/assets/47acd1fc-45ca-47a3-ad9e-b37b78f82a38" />
+<img width="634" height="554" alt="image" src="https://github.com/user-attachments/assets/47acd1fc-45ca-47a3-ad9e-b37b78f82a38"/>
 
 
 ## How to Run This Project
